@@ -20,7 +20,7 @@ package com.airhacks.afterburner.injection;
  * #L%
  */
 
-import javax.annotation.PostConstruct;
+import jakarta.annotation.PostConstruct;
 
 /**
  *

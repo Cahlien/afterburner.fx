@@ -24,7 +24,7 @@ package com.airhacks.afterburner.injection;
  * #L%
  */
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 /**
  *
